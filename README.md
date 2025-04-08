@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+![resim]([https://github.com/user-attachments/assets/d2eea468-6c54-4d56-bdb1-52c7f9f00991](https://giphy.com/gifs/nothing-shoot-chest-G6sJqVpD1U4jC))<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Ekinci (👍ᐛ )👍 
 🚀 Passionate Full-Stack Developer on a mission to craft seamless digital experiences  
