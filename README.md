@@ -16,3 +16,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<img src="https://images-ext-1.discordapp.net/external/tZQDJmgc3_gUefHAb9upMeBYLbjqV4Cut_fNQyKygEs/https/media.tenor.com/Q0ldCS_cwyQAAAPo/%25D9%2587%25D9%2585%25D9%2585.mp4" alt="Ending GIF" width="100%" />
