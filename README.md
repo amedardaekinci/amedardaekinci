@@ -17,4 +17,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<img src="https://images-ext-1.discordapp.net/external/tZQDJmgc3_gUefHAb9upMeBYLbjqV4Cut_fNQyKygEs/https/media.tenor.com/Q0ldCS_cwyQAAAPo/%25D9%2587%25D9%2585%25D9%2585.mp4" alt="Ending GIF" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1paGp2ODhobnhhYmU3NWxuY3NjcWphNTdyMDZyZXo0MTcxN3l0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AWYP1Fgo5AXex3u0Ej/giphy.gif" alt="Ending GIF" width="100%" />
