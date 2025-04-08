@@ -1,6 +1,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lycDh1ODdvb3k4bGlhZXhpYWYwZmtyNnA2MDVlemFrOGh4d2c4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.gif" alt="Banner GIF" width="100%" />
 
-# Hello World! I'm Ekinci (👍ᐛ )👍 
+# Hello World! I'm Ekinci
+(👍ᐛ )👍 
 🚀 Passionate Full-Stack Developer on a mission to craft seamless digital experiences  
 🎓 Computer Engineering student blending theory with real-world code  
 🧠 Constantly learning, building, and refining since 2022  
