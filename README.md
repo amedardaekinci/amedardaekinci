@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/wmjvhjJnSj0d8HoaLF/giphy.gif" alt="Banner GIF" width="90%" height="300" />
+<img src="https://media.giphy.com/media/wmjvhjJnSj0d8HoaLF/giphy.gif" alt="Banner GIF" width="90%" height="600" />
 
 # Hello World! I'm Ekinci -(👍ᐛ )👍
 🚀 Passionate Full-Stack Developer on a mission to craft seamless digital experiences  
