@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lycDh1ODdvb3k4bGlhZXhpYWYwZmtyNnA2MDVlemFrOGh4d2c4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.gif" alt="Banner GIF" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V5eG82dGRwbDFvNndmNmZ3bm9icXJ4ZGlnM3R5a2U4MnlxYTYzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AWYP1Fgo5AXex3u0Ej/giphy.giff" alt="Banner GIF" width="100%" />
 
 # Hello World! I'm Ekinci -(👍ᐛ )👍
 🚀 Passionate Full-Stack Developer on a mission to craft seamless digital experiences  
