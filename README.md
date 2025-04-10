@@ -1,4 +1,4 @@
-<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V5eG82dGRwbDFvNndmNmZ3bm9icXJ4ZGlnM3R5a2U4MnlxYTYzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AWYP1Fgo5AXex3u0Ej/giphy.giff](https://d2tcgf3zx24xll.cloudfront.net/s84oqc%2Fpreview%2F66099460%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1744291088&Signature=TvUEELvJH~KVScZiiuCoFqBeduk3~DLLHQzdBlZ4Ce0MzNYuWxc9Gwmrma3yys84WwrzDF99tOnCPNeA6j9cNKiGEZsPEdM~bWqGMdUYso7qg7vRwR0lTFPvyfi4mVEcDuFZ4-phCTUn1yJAEex7oSCS~ZoED37vJcMZEOyAQyQes8Rt-MBymwklyydWzH4EfwnwpcwFlJx4Zbvjf43ADmEV98vCs6uW5eLDEWC3FoNLk7UJ-Z5F4t8HrtYS11yIqGcO7ri6v8gSTUujiy-FEhyAYFHJ7ifFyWmFwFe8hWGqvTE19Wp9vIKQQc~z-6h6CZpilCdWXe~2VsL1PDq-AQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)" alt="Banner GIF" width="100%" />
+<img src="https://media.giphy.com/media/wmjvhjJnSj0d8HoaLF/giphy.gif" alt="Banner GIF" width="100%" />
 
 # Hello World! I'm Ekinci -(👍ᐛ )👍
 🚀 Passionate Full-Stack Developer on a mission to craft seamless digital experiences  
